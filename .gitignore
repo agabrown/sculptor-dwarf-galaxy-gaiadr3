@@ -1,3 +1,10 @@
+Paper/
+data/*
+
+# Include these
+!data/table-e1.ascii
+!data/table-e1.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
