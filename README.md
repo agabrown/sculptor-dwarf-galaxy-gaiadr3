@@ -1,5 +1,5 @@
 # sculptor-dwarf-galaxy-gaiadr3
-Code to reproduce Sculptor galaxy membership selection described in [Tolstoy et al (2023)]()
+Code to reproduce Sculptor galaxy membership selection described in [Tolstoy et al (2023)](https://doi.org/10.1051/0004-6361/202245717)
 
 ## Folders in this repository
 * `data/` Contains the input data. Table E1 from the paper is included. The Gaia data must be downloaded first in FITS format
